@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">SamplesForCA</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_checkbox">CheckboxActivity</string>
+    <string name="title_activity_radio">RadioActivity</string>
+    <string name="title_activity_spinner">SpinnerActivity</string>
+    <string name="title_activity_table_form">TableForm</string>
+    <string name="title_activity_scroll_view">ScrollViewActivity</string>
+
+    <!-- CheckBox -->
+    <string name="checkbox_label_single">Single Checkbox Method</string>
+    <string name="checkbox_label_multi">Multi Checkbox Method</string>
+
+    <string name="checkbox_label1">Checkbox One</string>
+    <string name="checkbox_label2">Checkbox Two</string>
+    <string name="checkbox_label3">Checkbox Three</string>
+
+
+    <!-- Radio Button -->
+    <string name="radio_label1">Radio One</string>
+    <string name="radio_label2">Radio Two</string>
+    <string name="radio_label3">Radio Three</string>
+
+
+    <!-- Spinner -->
+    <string name="spinner_label_java">Java Spinner</string>
+    <string name="spinner_label_xml">XML Spinner</string>
+
+    <string-array name="spinner_strings">
+        <item>Option: XML One</item>
+        <item>Option: XML Two</item>
+        <item>Option: XML Three</item>
+        <item>Option: XML Four</item>
+    </string-array>
+
+
+    <!-- Table Layout Form -->
+    <string name="form_name">Name</string>
+    <string name="form_number">Number</string>
+    <string name="form_password">Password</string>
+    <string name="form_submit">Submit</string>
+
+</resources>
